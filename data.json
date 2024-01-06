@@ -1,0 +1,22 @@
+{
+  "villa": [
+    {
+      "id": 1,
+      "img": "https://preview.colorlib.com/theme/villa/img/img_1.jpg",
+      "date": "FEBRUARY 26, 2018",
+      "info": "Five Reasons to Stay at Villa Resort"
+    },
+    {
+      "id": 2,
+      "img": "https://preview.colorlib.com/theme/villa/img/img_2.jpg",
+      "date": "FEBRUARY 26, 2018",
+      "info": "Five Reasons to Stay at Villa Resort"
+    },
+    {
+      "id": 3,
+      "img": "https://preview.colorlib.com/theme/villa/img/img_3.jpg",
+      "date": "FEBRUARY 26, 2018",
+      "info": "Five Reasons to Stay at Villa Resort"
+    }
+  ]
+}
